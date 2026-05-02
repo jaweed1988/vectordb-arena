@@ -1,0 +1,10 @@
+faiss-cpu
+qdrant-client
+sentence-transformers
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+datasets
+tqdm

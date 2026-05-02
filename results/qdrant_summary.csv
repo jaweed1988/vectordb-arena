@@ -1,0 +1,2 @@
+system,dataset_size,top_k,num_queries,index_build_time_sec,avg_latency_ms,p50_latency_ms,p95_latency_ms,p99_latency_ms,min_latency_ms,max_latency_ms,throughput_qps,avg_category_match_rate
+Qdrant,10000,5,4,3.936776700000337,40.15839999988202,40.6256499995834,45.93765000017811,46.14873000025909,33.180800000081945,46.20150000027934,17.994519769016442,0.75
