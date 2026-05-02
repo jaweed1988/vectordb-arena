@@ -219,8 +219,3 @@ The project explores AI infrastructure concepts including:
 * retrieval performance engineering
 * semantic search systems
 
----
-
-## License
-
-MIT License
