@@ -207,7 +207,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## LinkedIn Project Summary
+##  Project Summary
 
 VectorDB Arena is a semantic similarity search benchmark platform designed to evaluate the performance, scalability, and retrieval quality of modern vector retrieval systems.
 
