@@ -217,3 +217,7 @@ This project explores:
 * AI infrastructure benchmarking
 * performance engineering
 
+## Acknowledgments
+
+This project was developed with assistance from OpenAI ChatGPT and Anthropic Claude for architecture discussions, documentation refinement, and development support.
+
