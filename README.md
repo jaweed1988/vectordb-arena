@@ -25,11 +25,9 @@ The benchmark currently compares:
 
 ## Architecture
 
-Add your generated architecture image here:
 
-```markdown
 ![Architecture](assets/vector-db-arena-architecture.png)
-```
+
 
 ---
 
@@ -207,15 +205,15 @@ streamlit run dashboard/app.py
 
 ---
 
-##  Project Summary
+## Key Learning Areas
 
-VectorDB Arena is a semantic similarity search benchmark platform designed to evaluate the performance, scalability, and retrieval quality of modern vector retrieval systems.
+This project explores:
 
-The project explores AI infrastructure concepts including:
-
-* embeddings
-* ANN search
-* vector databases
-* retrieval performance engineering
 * semantic search systems
+* vector databases
+* approximate nearest neighbor (ANN) search
+* embedding pipelines
+* retrieval evaluation
+* AI infrastructure benchmarking
+* performance engineering
 
